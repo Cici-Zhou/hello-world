@@ -1,3 +1,3 @@
 # hello-world
-just another repository
-This is first change!
+just another repository\n
+This is second change!
